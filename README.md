@@ -40,6 +40,10 @@ This component displays a dummy waitlist on the home page. (The file is located 
 
 ## 1. Start the Development Server:
 
+    Run `npm install` in your terminal to install the package.
+
+## 1. Start the Development Server:
+
     Run `npm run dev` in your terminal to start the development server.
 
 ## 2. Open the Application:`
